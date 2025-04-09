@@ -49,11 +49,10 @@ This assignment will help you practice:
 - Clone the repository to your local machine to begin working on the assignment
 
 ### Part 1: Update this README.md
-Replace the "Part 1" section with:
-- A brief introduction about yourself (first name only)
-- What you're hoping to get out of this course
-- Topics you would like to see included
-- A musical recommendation and a link to something about it (song, album, artist)
+- I'm Michelle and I'm a first year Masters student in the Health Data Science program. I also currently work at UCSF in the Gastroenterology and Hepatology department as a Research Data Analyst.
+- I hope to further practice my Python skills and deepen my understanding of data science applications and concepts.
+- I'd like to see some generative AI (or general AI) concepts being covered as it would be applicable to the line of work I'm currently doing.
+- I recommend anything by Porter Robinson! Really like the lyrics to [Russian Roulette](https://www.youtube.com/watch?v=N6w-UzfGX0c).
 
 ### Part 2: Complete the email_hasher.py Script
 The email_hasher.py script should:
